@@ -33,5 +33,9 @@
     "url": "git://github.com/mikermcneil/sessiontest.git"
   },
   "author": "mikermcneil",
-  "license": ""
+  "sails101": {
+    "id": "redis-session",
+    "label": "How do I configure Redis as my session store?"
+  },
+  "license": "MIT"
 }
