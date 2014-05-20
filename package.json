@@ -1,5 +1,5 @@
 {
-  "name": "sessiontest",
+  "name": "sails101-redis-session",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,11 +30,10 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikermcneil/sessiontest.git"
+    "url": "git://github.com/sails101/redis-session.git"
   },
   "author": "mikermcneil",
   "sails101": {
-    "id": "redis-session",
     "label": "How do I configure Redis as my session store?"
   },
   "license": "MIT"
