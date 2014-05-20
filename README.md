@@ -1,4 +1,6 @@
-# How do I configure Redis as my session store?
+# redis-session
+
+### How do I configure Redis as my session store?
 
 > TODO: expand this readme
 
