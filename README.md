@@ -1,4 +1,4 @@
-# How do I configure Sails to use Redis as its session store?
+# How do I configure Redis as my session store?
 
 > TODO: expand this readme
 
